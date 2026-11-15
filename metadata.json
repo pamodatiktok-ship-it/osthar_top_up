@@ -1,0 +1,6 @@
+{
+  "name": "Osthar Top Up",
+  "description": "Fast and secure Free Fire diamond top-up store and LKR wallet app for Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
